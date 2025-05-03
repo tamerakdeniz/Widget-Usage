@@ -1,0 +1,82 @@
+# 🎯 Widgets Usage
+
+A sample Android project demonstrating the implementation of various Material Design widgets and UI components using Kotlin.
+
+## 🎯 Project Overview
+
+This project showcases modern Android UI implementations including:
+
+- 🔘 Toggle Button Groups
+- 📝 Auto-Complete Text Fields
+- 📜 ScrollView Implementation
+- 🎨 Material Design Components
+
+## 🛠️ Technical Stack
+
+- 📱 Android SDK
+- 🎯 Kotlin Programming Language
+- 🔧 Gradle Build System with Kotlin DSL
+- 📦 Material Design Components
+- 🔄 View Binding
+- 🎨 ConstraintLayout
+
+## ✨ Key Features
+
+### Toggle Button Group
+
+- Material Design toggle buttons
+- Single selection mode
+- Three-state toggle (Yemekler, Tatlılar, İçecekler)
+
+### AutoComplete TextView
+
+- Country selection dropdown
+- Custom array adapter implementation
+- Dynamic list population
+
+### Interactive UI
+
+- ScrollView for screen content
+- Show button functionality
+- Event logging implementation
+
+## 🏗️ Project Structure
+
+```
+WidgetsUsage/
+├── app/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       │   └── com/example/widgetsusage/
+│   │       │       └── MainActivity.kt
+│   │       └── res/
+│   │           └── layout/
+│   │               └── activity_main.xml
+│   └── build.gradle.kts
+└── build.gradle.kts
+```
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/tamerakdeniz/Widget-Usage.git
+```
+
+2. Open in Android Studio
+3. Sync project with Gradle files
+4. Run on an emulator or device
+
+## 🔧 Prerequisites
+
+- Android Studio
+- JDK 11 or higher
+- Android SDK with Material Design Components
+
+## 👤 Author
+
+**Tamer Akdeniz**
+
+- GitHub: [@tamerakdeniz](https://github.com/tamerakdeniz)
